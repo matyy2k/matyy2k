@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mateusz
 - 🌱 I’m currently learning Python, and more specifically the Django Framework.
-- 📫 How to reach me: www.linkedin.com/in/mateusz-mackowiak
 
 <!---
 matyy2k/matyy2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
